@@ -1,7 +1,12 @@
-# OD_Data_Portugal_Census_2021
+# OD Data Portugal Census 2021
 
 Origin–Destination (OD) dataset derived from Portugal’s **Census 2021**, focusing on commuting flows for work and education.  
-This repository provides cleaned datasets, scripts, and analytical examples to support research, urban planning, and mobility analysis.
+
+**Indicator name:**
+Commuting (Interactions in the territorial unit - No.) of the employed or student resident population by Place of residence at Census date [2021] or destination (NUTS 2024 - Município) and Place of destination or residence at Census date [2021] (NUTS 2024 - Município); [see description](https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0012340&lingua=EN).
+
+This indicator measures the total number of commuting interactions between two territorial units, involving the resident employed or student population.
+The flows represent bidirectional commuting movements between a pair of municipalities.
 
 ## 📚 Data Sources
 
