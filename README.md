@@ -36,3 +36,9 @@ Supports creation of:
 - Commuting graphs
 - Spatial interaction models
 - GIS visualizations
+
+# Movement Chord Diagram
+
+This diagram shows the flows between districts.
+
+![Chord Diagram](chord_diagram.svg)
